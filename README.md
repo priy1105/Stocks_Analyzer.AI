@@ -24,15 +24,14 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 
 And many more, including code architecture and reusability.
 
-##🤸 Quick Start
+# 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
 # Prerequisites
-
 Make sure you have the following installed on your machine:
-Git
-Node.js
-npm (Node Package Manager)
+1. Git
+2. Node.js
+3. npm (Node Package Manager)
 
 # Cloning the Repository
 ```bash
@@ -45,15 +44,6 @@ Replace the placeholder values with your real credentials. You can get these by 
 ```bash
 npm run dev
 npx inngest-cli@latest dev
-```
-
-
-
-
-# First, run the development server:
-
-```bash
-npm run dev
 ```
 
 # Set Up Environment Variables
