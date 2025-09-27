@@ -1,4 +1,4 @@
-<img width="960" height="775" alt="dashboard" src="https://github.com/user-attachments/assets/bcfb8db8-4a0c-4096-a7ef-2ea3a4124c6f" />
+<img width="768" height="315" alt="dashboard-preview" src="https://github.com/user-attachments/assets/88d444fb-8c6f-4485-aad0-729594fcebb9" />
 
 
 ## ✨ Introduction
@@ -15,6 +15,8 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 8. Shadcn
 9. Tailwind CSS
 
+<img width="1897" height="912" alt="jsf" src="https://github.com/user-attachments/assets/d426edc3-d3cf-4cde-bdb1-1cef9fb405da" />
+
 ## 🔋 Features
 1. Stock Dashboard: Track real-time stock prices with interactive line and candlestick charts, including historical data, and filter stocks by industry, performance, or market cap.
 2. Powerful Search: Quickly find the best stocks with an intelligent search system that helps you navigate through Signalist.
@@ -26,6 +28,8 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 8. Analytics & Insights: Gain insights into user behavior, stock trends, and engagement metrics, enabling smarter business and trading decisions.
 
 And many more, including code architecture and reusability.
+
+<img width="1440" height="1162" alt="Dashboard" src="https://github.com/user-attachments/assets/b10af6d7-5510-4729-8d58-e16a80e61104" />
 
 ### 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
