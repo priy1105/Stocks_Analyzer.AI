@@ -24,29 +24,29 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 
 And many more, including code architecture and reusability.
 
-# 🤸 Quick Start
+### 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
 
-# Prerequisites
+### Prerequisites
 Make sure you have the following installed on your machine:
 1. Git
 2. Node.js
 3. npm (Node Package Manager)
 
-# Cloning the Repository
+## Cloning the Repository
 ```bash
 git clone https://github.com/adrianhajdin/signalist_stock-tracker-app.git
 cd signalist_stock-tracker-app
 ```
 Replace the placeholder values with your real credentials. You can get these by signing up at: MongoDB, Gemini, Inngest, Finnhub.
 
-# Running the Project
+## Running the Project
 ```bash
 npm run dev
 npx inngest-cli@latest dev
 ```
 
-# Set Up Environment Variables
+## Set Up Environment Variables
 
 Create a new file named .env in the root of your project and add the following content:
 ```bash
