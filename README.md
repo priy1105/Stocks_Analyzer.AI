@@ -1,8 +1,8 @@
 
-<img width="1440" height="1162" alt="dashboard" src="https://github.com/user-attachments/assets/0b581e47-2d4d-4abd-9e8d-8919d3a11925" />
-<img width="1850" height="903" alt="jsf2" src="https://github.com/user-attachments/assets/839354de-21a5-44f8-bad7-142dccf678c5" />
-<img width="1897" height="912" alt="jsf" src="https://github.com/user-attachments/assets/c193d9ef-368b-4382-ad40-d6a571e6584d" />
-<img width="1723" height="902" alt="image" src="https://github.com/user-attachments/assets/e06f9f1d-b14e-4850-a467-5ba3ad56e730" />
+<img width="1440" height="400" alt="dashboard" src="https://github.com/user-attachments/assets/0b581e47-2d4d-4abd-9e8d-8919d3a11925" />
+<img width="1850" height="303" alt="jsf2" src="https://github.com/user-attachments/assets/839354de-21a5-44f8-bad7-142dccf678c5" />
+<img width="1897" height="312" alt="jsf" src="https://github.com/user-attachments/assets/c193d9ef-368b-4382-ad40-d6a571e6584d" />
+<img width="1723" height="302" alt="image" src="https://github.com/user-attachments/assets/e06f9f1d-b14e-4850-a467-5ba3ad56e730" />
 
 
 ## ✨ Introduction
