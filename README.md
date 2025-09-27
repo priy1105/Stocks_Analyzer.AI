@@ -74,4 +74,9 @@ GEMINI_API_KEY=
 NODEMAILER_EMAIL=
 NODEMAILER_PASSWORD=
 ```
+<img width="1850" height="903" alt="jsf2" src="https://github.com/user-attachments/assets/0dc8eedd-b802-4e7d-9cf2-7e1383f2392d" />
+<img width="1723" height="902" alt="jsf3" src="https://github.com/user-attachments/assets/283d78b3-bb7a-4c01-9bb7-9d83f5ced51c" />
+<img width="1897" height="912" alt="jsf" src="https://github.com/user-attachments/assets/086bef14-7d8a-43a9-94ee-a8747e441bf1" />
+
+
 
