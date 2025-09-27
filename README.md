@@ -1,4 +1,4 @@
-<img width="768" height="315" alt="dashboard-preview" src="https://github.com/user-attachments/assets/88d444fb-8c6f-4485-aad0-729594fcebb9" />
+<img width="1440" height="1162" alt="Dashboard" src="https://github.com/user-attachments/assets/b10af6d7-5510-4729-8d58-e16a80e61104" />
 
 
 ## ✨ Introduction
@@ -28,8 +28,6 @@ AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and 
 8. Analytics & Insights: Gain insights into user behavior, stock trends, and engagement metrics, enabling smarter business and trading decisions.
 
 And many more, including code architecture and reusability.
-
-<img width="1440" height="1162" alt="Dashboard" src="https://github.com/user-attachments/assets/b10af6d7-5510-4729-8d58-e16a80e61104" />
 
 ### 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
