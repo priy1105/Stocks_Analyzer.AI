@@ -5,15 +5,15 @@
 AI-powered modern stock market app built with Next.js, Shadcn, Better Auth, and Inngest! Track real-time prices, set personalized alerts, explore company insights, and manage watchlists. The admin dashboard allows managing stocks, publishing news, and monitoring user activity, while event-driven workflows power automated alerts, AI-driven daily digests, earnings notifications, and sentiment analysis.
 
 ## ⚙️ Tech Stack
-1. Next.js
-2. TypeScript
-3. Better Auth
-4. Finnhub - Financial data scraping API
-5. Inngest
-6. MongoDB
-7. NodeMailer
-8. Shadcn
-9. Tailwind CSS
+1. Next.js - React Framework which provides server-side rendering
+2. TypeScript - Superset of Javascript that imporves code quality for building large scale production ready applications
+3. Better Auth - Authentication
+4. Finnhub - Real time Financial Data Scraping API
+5. Inngest - Platform for event-driven workflows and automated workflows
+6. MongoDB - Flexible, high-performance NoSQL database
+7. NodeMailer - Node.js library for sending emails easily
+8. Shadcn - Open-source library of fully customizable, accessible React components which helps teams rapidly build consistent, visually appealing UIs
+9. Tailwind CSS - Utility-first CSS framework
 
 <img width="1897" height="912" alt="jsf" src="https://github.com/user-attachments/assets/d426edc3-d3cf-4cde-bdb1-1cef9fb405da" />
 
